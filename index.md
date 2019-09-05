@@ -1,6 +1,6 @@
 ## Holger Wienecke
 
-Still doing coding when I like to ;-)
+Still do coding when I like to ;-)
 
 Interested in 
 1. C / C++
